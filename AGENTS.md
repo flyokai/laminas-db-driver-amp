@@ -1,5 +1,7 @@
 # flyokai/laminas-db-driver-amp
 
+> User docs → [`README.md`](README.md) · Agent quick-ref → [`CLAUDE.md`](CLAUDE.md) · Agent deep dive → [`AGENTS.md`](AGENTS.md)
+
 Native AMPHP MySQL driver for Laminas DB. Non-blocking database operations using `amphp/mysql` pure-PHP client with fiber-aware state management.
 
 ## Core Architecture
